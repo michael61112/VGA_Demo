@@ -2,8 +2,8 @@
 # Vivado v2022.1 (64-bit)
 # SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
 # IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
-# Start of session at: Mon Nov 14 17:28:57 2022
-# Process ID: 44284
+# Start of session at: Wed Nov 16 22:56:39 2022
+# Process ID: 13308
 # Current directory: C:/Users/micha/Documents/Xilnux/VGA/BRAM/BRAM.runs/blk_mem_gen_0_synth_1
 # Command line: vivado.exe -log blk_mem_gen_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source blk_mem_gen_0.tcl
 # Log file: C:/Users/micha/Documents/Xilnux/VGA/BRAM/BRAM.runs/blk_mem_gen_0_synth_1/blk_mem_gen_0.vds
