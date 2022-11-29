@@ -1,0 +1,11 @@
+0.7
+2020.2
+Apr 18 2022
+16:05:34
+C:/Users/micha/Documents/Xilnux/VGA/vga_phase3/vga_phase3.gen/sources_1/ip/blk_mem_gen_0/sim/blk_mem_gen_0.v,1669131631,verilog,,C:/Users/micha/Documents/Xilnux/VGA/vga_phase3/vga_phase3.srcs/sources_1/new/vga_phase3.v,,blk_mem_gen_0,,,../../../../vga_phase3.gen/sources_1/ip/clk_wiz_0,,,,,
+C:/Users/micha/Documents/Xilnux/VGA/vga_phase3/vga_phase3.gen/sources_1/ip/blk_mem_gen_index/sim/blk_mem_gen_index.v,1669222590,verilog,,C:/Users/micha/Documents/Xilnux/VGA/vga_phase3/vga_phase3.srcs/sources_1/new/vga_phase3.v,,blk_mem_gen_index,,,../../../../vga_phase3.gen/sources_1/ip/clk_wiz_0,,,,,
+C:/Users/micha/Documents/Xilnux/VGA/vga_phase3/vga_phase3.gen/sources_1/ip/clk_wiz_0/clk_wiz_0.v,1668616301,verilog,,C:/Users/micha/Documents/Xilnux/VGA/vga_phase3/vga_phase3.srcs/sources_1/new/vga_phase3.v,,clk_wiz_0,,,../../../../vga_phase3.gen/sources_1/ip/clk_wiz_0,,,,,
+C:/Users/micha/Documents/Xilnux/VGA/vga_phase3/vga_phase3.gen/sources_1/ip/clk_wiz_0/clk_wiz_0_clk_wiz.v,1668616301,verilog,,C:/Users/micha/Documents/Xilnux/VGA/vga_phase3/vga_phase3.gen/sources_1/ip/clk_wiz_0/clk_wiz_0.v,,clk_wiz_0_clk_wiz,,,../../../../vga_phase3.gen/sources_1/ip/clk_wiz_0,,,,,
+C:/Users/micha/Documents/Xilnux/VGA/vga_phase3/vga_phase3.sim/sim_1/behav/xsim/glbl.v,1649976174,verilog,,,,glbl,,,,,,,,
+C:/Users/micha/Documents/Xilnux/VGA/vga_phase3/vga_phase3.srcs/sim_1/new/vga_phase3_tb.v,1669306087,verilog,,,,vga_phase3_tb,,,../../../../vga_phase3.gen/sources_1/ip/clk_wiz_0,,,,,
+C:/Users/micha/Documents/Xilnux/VGA/vga_phase3/vga_phase3.srcs/sources_1/new/vga_phase3.v,1669383003,verilog,,C:/Users/micha/Documents/Xilnux/VGA/vga_phase3/vga_phase3.srcs/sim_1/new/vga_phase3_tb.v,,delay_five_cycle;delay_five_cycle_10bit;delay_four_cycle;delay_four_cycle_10bit;delay_one_cycle;delay_three_cycle;delay_three_cycle_10bit;delay_three_cycle_20bit;delay_two_cycle;delay_two_cycle_10bit;delay_two_cycle_20bit;hsync;vga_phase3;vsync,,,../../../../vga_phase3.gen/sources_1/ip/clk_wiz_0,,,,,

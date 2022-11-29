@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Fri Nov 25 22:03:03 2022
+# Process ID: 20756
+# Current directory: C:/Users/micha/Documents/Xilnux/VGA/vga_phase3/vga_phase3.runs/impl_1
+# Command line: vivado.exe -log vga_phase3.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source vga_phase3.tcl -notrace
+# Log file: C:/Users/micha/Documents/Xilnux/VGA/vga_phase3/vga_phase3.runs/impl_1/vga_phase3.vdi
+# Journal file: C:/Users/micha/Documents/Xilnux/VGA/vga_phase3/vga_phase3.runs/impl_1\vivado.jou
+# Running On: PowerPC, OS: Windows, CPU Frequency: 3187 MHz, CPU Physical cores: 16, Host memory: 34048 MB
+#-----------------------------------------------------------
+source vga_phase3.tcl -notrace

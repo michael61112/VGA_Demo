@@ -1,0 +1,10 @@
+Time resolution is 1 ps
+ Block Memory Generator module loading initial data...
+ Block Memory Generator data initialization complete.
+Block Memory Generator module vga_phase3_tb.UUT.blk_ins.inst.\native_mem_module.blk_mem_gen_v8_4_5_inst  is using a behavioral model for simulation which will not precisely model memory collision behavior.
+blk_mem_gen_v8_4_5 WARNING: Address 7fce0 is outside range for A Read
+blk_mem_gen_v8_4_5 WARNING: Address 7fce1 is outside range for A Read
+blk_mem_gen_v8_4_5 WARNING: Address 7fce2 is outside range for A Read
+blk_mem_gen_v8_4_5 WARNING: Address 7fce3 is outside range for A Read
+blk_mem_gen_v8_4_5 WARNING: Address 7fce4 is outside range for A Read
+blk_mem_gen_v8_4_5 WARNING: Address 7fce0 is outside range for A Read
